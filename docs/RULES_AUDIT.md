@@ -8,7 +8,7 @@ Official rules: https://github.com/microsoft/insidethegamehackathon/blob/main/OF
 - Synthetic football-realistic events: **SATISFIED for local demo**, no third-party footage or players.
 - Five stages: event ingestion, metric context, explanation, overlay output, differentiated audience profiles. **Implemented locally** as deterministic simulation with `/api/analyse`, `/api/overlay`, `/api/recap`.
 - Public GitHub code URL: **SATISFIED**; GitHub visibility verified as public on 2026-10-28: https://github.com/milosgnjidicenquiries/bodymap-football-intelligence.
-- Demo video (<2 min), publicly hosted on YouTube/Vimeo/Facebook Video/Youku: **NOT VERIFIED / NOT SATISFIED BY LINK IN REPO**; the current anonmp4.art video link uses an unapproved host; duration and real UI footage not independently verified.
+- Demo video (<2 min), publicly hosted on YouTube/Vimeo/Facebook Video/Youku: **HOST PLATFORM SATISFIED, REMAINDER NOT VERIFIED**; updated video link: https://vimeo.com/1240255819. Vimeo is an allowed hosting platform. Video length, anonymous public visibility, actual app demonstration, and formal submission of the new URL are not independently verified.
 - Submission pitch and correct Microsoft technologies: **draft exists**; must update based on integrations actually deployed.
 - Testing access free until judging ends: **PARTIALLY SATISFIED**; public Render demo is live, but uptime through November 10 must be monitored and free access maintained.
 - English submission: English README, pitch, testing instructions; default UI English.
