@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: bodymap-football-intelligence
+    runtime: python
+    plan: free
+    buildCommand: "echo 'BodyMap standard library API ready'"
+    startCommand: "python server/app.py --port $PORT"
+    healthCheckPath: /api/health
+    autoDeployTrigger: commit
