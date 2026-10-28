@@ -89,10 +89,10 @@ This video presents BodyMap Football Intelligence, an independently developed pr
 
 The demonstration showcases the project's football intelligence concept, including tactical visualisation, synthetic body-language annotations, explainable analysis, and Analyst, Broadcast and Fan presentation modes.
 
-### ▶ [WATCH THE PROJECT DEMONSTRATION VIDEO](https://anonmp4.art/v/BAiD3SFoIt5F2Ki)
+### ▶ [WATCH THE PROJECT DEMONSTRATION VIDEO](https://vimeo.com/1240255819)
 
-**VIDEO LINK:** https://anonmp4.art/v/BAiD3SFoIt5F2Ki
+**VIDEO LINK:** https://vimeo.com/1240255819
 
-**Competition submission warning:** The official rules require the submitted demonstration video to be publicly hosted on YouTube, Vimeo, Facebook Video or Youku. The link above is not on one of those platforms and should not be represented as a compliant video submission URL. The official submission deadline was October 27, 2026 at 11:59 p.m. Pacific Time; repository/deployment changes alone do not prove a timely accepted entry.
+**Competition submission warning:** The official rules require the submitted demonstration video to be publicly hosted on YouTube, Vimeo, Facebook Video or Youku. The linked video is now hosted on Vimeo, an accepted platform; its public accessibility, duration (strictly under two minutes) and submission through the hackathon portal have not been independently verified. The official submission deadline was October 27, 2026 at 11:59 p.m. Pacific Time; repository/deployment changes alone do not prove a timely accepted entry.
 
 *This link is provided as project demonstration material for the hackathon.*
