@@ -2,6 +2,16 @@
 
 **Microsoft × Premier League "Inside the Game" Hackathon candidate / independently built prototype.**
 
+> **Live interactive prototype:** https://bodymap-football-intelligence.onrender.com  
+> **Repository:** https://github.com/milosgnjidicenquiries/bodymap-football-intelligence  
+> **Prototype status:** deployed synthetic football demonstrator; no verified active Microsoft Foundry model invocation.
+
+### How to experience the football analysis
+
+Open the live demo, choose **Analyst**, **Broadcast**, or **Fan**, and move the match timeline. The **Event briefing** provides a plain-language explanation, the **Five methodological steps** interpret the current simulated action in professional football terminology, and **Technical execution trace** expands the original deterministic logs for audit. Switch between **English**, **Serbian**, and **Spanish**, inspect movement annotations, try the three guided demonstration scenes, or export a structured analysis report. The pitch is an angled Canvas illustration or a top-down map, **not a genuine WebGL 3D reconstruction**.
+
+**Interpretation boundaries:** pressure is a synthetic index, not a measured physical quantity; percentages rank hand-coded candidate actions, not calibrated probabilities; gestures are fictional categorical annotations, not computer-vision observations or evidence of intent. The optional Microsoft Agent Framework code path is not configured or verified on the public deployment.
+
 BodyMap is a working web dashboard and deterministic Python backend that replays a completely synthetic football match, simulates body/head and face/hand labels, explains tactical context and displays heuristic next-action candidates. Three presentation profiles (Analyst, Broadcast, Fan), three languages (English, Serbian, Spanish), a five-stage auditable pipeline, live timeline, perspective/top-down pitch, exportable JSON, and automated tests are included.
 
 ## Run (Python 3.9+; no pip install)
@@ -67,7 +77,7 @@ For GitHub: publish the *contents of this folder*, not the ZIP as the repository
 
 ## Public deployment (Render)
 
-This repository includes `render.yaml` for a Render Blueprint and a `Dockerfile` for general container hosting. Follow [`docs/PUBLIC_DEPLOYMENT.md`](docs/PUBLIC_DEPLOYMENT.md). An authorized Render account and GitHub repository are required to obtain a real public URL. Do **not** confuse this deployment configuration with a live deployment.
+The public demonstration is deployed at **https://bodymap-football-intelligence.onrender.com** from the `main` branch using Render. It includes `render.yaml` and `Dockerfile`; see [`docs/PUBLIC_DEPLOYMENT.md`](docs/PUBLIC_DEPLOYMENT.md). Render deployment is independent of Azure/Foundry integration. The application remains an auditable synthetic prototype, not a production-validated model.
 
 ---
 
@@ -82,5 +92,7 @@ The demonstration showcases the project's football intelligence concept, includi
 ### ▶ [WATCH THE PROJECT DEMONSTRATION VIDEO](https://anonmp4.art/v/BAiD3SFoIt5F2Ki)
 
 **VIDEO LINK:** https://anonmp4.art/v/BAiD3SFoIt5F2Ki
+
+**Competition submission warning:** The official rules require the submitted demonstration video to be publicly hosted on YouTube, Vimeo, Facebook Video or Youku. The link above is not on one of those platforms and should not be represented as a compliant video submission URL. The official submission deadline was October 27, 2026 at 11:59 p.m. Pacific Time; repository/deployment changes alone do not prove a timely accepted entry.
 
 *This link is provided as project demonstration material for the hackathon.*
