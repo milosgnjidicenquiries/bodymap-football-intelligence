@@ -68,3 +68,19 @@ For GitHub: publish the *contents of this folder*, not the ZIP as the repository
 ## Public deployment (Render)
 
 This repository includes `render.yaml` for a Render Blueprint and a `Dockerfile` for general container hosting. Follow [`docs/PUBLIC_DEPLOYMENT.md`](docs/PUBLIC_DEPLOYMENT.md). An authorized Render account and GitHub repository are required to obtain a real public URL. Do **not** confuse this deployment configuration with a live deployment.
+
+---
+
+## PREMIER LEAGUE × MICROSOFT — HACKATHON VIDEO DEMONSTRATION
+
+### OFFICIAL BODYMAP PROJECT DEMONSTRATION VIDEO LINK
+
+This video presents BodyMap Football Intelligence, an independently developed prototype for the Microsoft × Premier League "Inside the Game" Hackathon.
+
+The demonstration showcases the project's football intelligence concept, including tactical visualisation, synthetic body-language annotations, explainable analysis, and Analyst, Broadcast and Fan presentation modes.
+
+### ▶ [WATCH THE PROJECT DEMONSTRATION VIDEO](https://anonmp4.art/v/BAiD3SFoIt5F2Ki)
+
+**VIDEO LINK:** https://anonmp4.art/v/BAiD3SFoIt5F2Ki
+
+*This link is provided as project demonstration material for the hackathon.*
